@@ -71,8 +71,8 @@
 ### 💡 Always Learning | Always Growing | Always Pushing Forward | Dreams come true if you want to! |
 
 <p>
-  <strong>¿Tienes algún proyecto en mente o quieres colaborar?</strong><br>
-  No dudes en contactarme a través de <a href="mailto:jairomt95@gmail.com">mi correo</a> o en mi LinkedIn.
+  <strong>¿Anything to share? Wanna work togetherwhit me??</strong><br>
+  Dont doubt it, drop a email  <a href="mailto:jairomt95@gmail.com">here/a> or a message on my LinkedIn.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jairo-martinez-tello)
