@@ -5,7 +5,7 @@
 <h2 align="center">👋 I'm Jairo Martinez Tello AKA SANTRAX</h2>
 
 <h3 align="center">
-  🚀 Dev Full-Stack en Formación | 💻 Bootcamp 4Geeks Academy | 🎮 Apasionado por la Tecnología
+  🚀 Dev Full-Stack en Formación | 💻 Bootcamp 4Geeks Academy | 🎮 Apasionate for tecnology and gaming
 </h3>
 
 <p align="center">
