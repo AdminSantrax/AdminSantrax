@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B00,100:8B00FF&height=300&text=Dreaming%20Together&fontSize=60&fontColor=FFD700&animation=fadeIn" alt="Header Dreaming Together" width="100%" />
+</div>
 
-<!--
-**AdminSantrax/AdminSantrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 I'm Jairo Martinez Tello AKA SANTRAX</h2>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  🚀 Dev Full-Stack en Formación | 💻 Bootcamp 4Geeks Academy | 🎮 Apasionado por la Tecnología
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>📍 Granada, Andalusia, Spain | 🌟 Making reality from the dreams 🎯 Learning everyday|💪 NO EXCUSES|⚡ That's all what you got? BRING ME MORE!</i>
+</p>
+
+---
+
