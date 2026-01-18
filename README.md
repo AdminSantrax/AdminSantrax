@@ -53,6 +53,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdminSantrax&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </div>
 
+---
+
+<div align="center">
+  
+### 💡 Always Learning | Always Growing | Always Pushing Forward | Dreams come true if you want to! |
+
+<p>
+  <strong>¿Tienes algún proyecto en mente o quieres colaborar?</strong><br>
+  No dudes en contactarme a través de <a href="mailto:jairomt95@gmail.com">mi correo</a> o en mi LinkedIn.
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jairo-martinez-tello)
+
+<p><i>"The future belongs to those who believe in the beauty of their dreams." - All Might</i></p>
+
+</div>
+
+
+
 
 
 
