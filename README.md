@@ -14,12 +14,12 @@
 </h3>
 
 <p align="center">
-  <i>📍 Granada, Andalusia, Spain | 🌟 Making reality from the dreams 🎯 Learning everyday|💪 NO EXCUSES|⚡ That's all what you got? BRING ME MORE!</i>
+  <i>📍 Granada, Andalusia, Spain | 🌟 Making reality from the dreams | 🎯 Learning everyday | 💪 NO EXCUSES | ⚡ That's all what you got? BRING ME MORE!</i>
 </p>
 
 
 
-<h2 align="center">🛠️What i have learned so far</h2>
+<h2 align="center">🛠️What I have learned so far</h2>
 
 
 
